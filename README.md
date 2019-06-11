@@ -1,29 +1,14 @@
 # Artificial-Intelligence-and-Data-Analysis
 
-
 作者：赵越 Jon
 
 人工智能与数据分析
-
-
-
 <br/>
----
-前言
-
-**计算机环境准备**
-
-anaconda数据包
-使用anaconda你的Jupyter Notebook。
-
-**机器学习的流程是什么样的？**
-
 机器学习的流程首先是拿到数据，做特征提取，利用机器学习算法寻找边界，预测数据，通过实际行动评估效果。
-
-
-**选择了机器学习，平常多逛什么网站？**
-
-平常多逛逛github、天池，有梯子的话再去看看kaggle。学习案例，**模仿**才能创造属于自己的模式。
+平常多逛逛github、天池、kaggle。学习案例，**模仿**才能创造属于自己的模式。
+<br/>
+anaconda数据包
+使用anaconda中的Jupyter Notebook。
 <br/>
 ---
 目录
