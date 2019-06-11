@@ -1,23 +1,25 @@
 # Artificial-Intelligence-and-Data-Analysis
 
+**人工智能与数据分析
+
 作者：赵越 Jon
 
-人工智能与数据分析
+
 
 ---
-机器学习是预测的过程：
+1、机器学习是预测的过程：
 
 拿到数据、特征提取、机器学习算法寻找边界、预测数据，通过实际行动评估效果。
 
 
-想学好需要**先模仿**再创造：
+2、想学好需要**先模仿**再创造：
 
 多浏览github、天池、kaggle。学习案例，。
 
 
-使用python时下载anaconda数据包：
+3、使用anaconda运行python更方便：
 
-使用anaconda中的Jupyter Notebook。
+anaconda包括常用的数据包，还有编辑器Jupyter Notebook。
 
 ---
 目录
