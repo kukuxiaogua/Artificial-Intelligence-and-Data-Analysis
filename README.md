@@ -1,6 +1,6 @@
 # Artificial-Intelligence-and-Data-Analysis
 
-**人工智能与数据分析
+** 人工智能与数据分析
 
 作者：赵越 Jon
 
