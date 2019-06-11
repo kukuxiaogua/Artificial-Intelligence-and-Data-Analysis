@@ -5,18 +5,18 @@
 人工智能与数据分析
 
 机器学习的流程首先是拿到数据，做特征提取，利用机器学习算法寻找边界，预测数据，通过实际行动评估效果。
-平常多逛逛github、天池、kaggle。学习案例，**模仿**才能创造属于自己的模式。
+多浏览github、天池、kaggle。学习案例，**先模仿**再创造。
 
 anaconda数据包
 使用anaconda中的Jupyter Notebook。
 
 ---
 目录
-- 文集核心框架
   - 库
     - Numpy 科学计算库
     - Pandas 数据分析处理库
-    - Matplotlib and Seaborn 数据可视化库
+    - Matplotlib 数据可视化库
+    - Seaborn 数据可视化库
   - 算法
     - 回归算法
     - 决策树
